@@ -6,7 +6,7 @@ app = Ursina()
 
 # Load the 3D character model
 character = Entity(
-    model='c8e0a4e6-2e42-4fbf-9031-1482cf1cc580.glb',
+    model='sample.glb',
     position=(0, 0, 0),
     scale=3
 )
